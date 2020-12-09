@@ -1,0 +1,19 @@
+{
+	"userId":"foo",
+	"name":"bar",
+	"nickname":"foobar",
+	"geography":"ASIA",
+	"gender":"OTHER",
+	"credit": 1000,
+	"interests" :[ 
+		{
+			"name":"fortnite",
+			"level":"NOOB"
+		},
+		{
+			"name":"call of duty",
+			"level":"PRO"
+		}
+		
+	]
+}

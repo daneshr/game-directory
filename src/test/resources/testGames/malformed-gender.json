@@ -1,0 +1,33 @@
+{
+	"userId":"danesh",
+	"name":"danesh razavi",
+	"nickname":"dani",
+	"geography":"ASIA",
+	"gender":"GIRL",
+	"credit": 100,
+	"interests" :[ 
+		{
+			"name":"fortnite",
+			"level":"PRO"
+		},
+		{
+			"name":"call of duty",
+			"level":"PRO"
+		}
+		,
+		{
+			"name":"dota",
+			"level":"NOOB"
+		}
+		,
+		{
+			"name":"valhalla",
+			"level":"NOOB"
+		}
+		,
+		{
+			"name":"amongus",
+			"level":"invincible"
+		}
+	]
+}
